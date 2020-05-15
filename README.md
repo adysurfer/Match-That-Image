@@ -25,7 +25,7 @@ The application will display back the results of all the images whether they
 match or don't match with the image that User has selected.
 ***
 ***
-### System Flow
+### **System Flow:**
 ![1](https://user-images.githubusercontent.com/5576793/82096515-714f3800-9701-11ea-89aa-54ffb3d46267.jpg)
 ![2](https://user-images.githubusercontent.com/5576793/82096597-9cd22280-9701-11ea-8e4f-8a4722a9f5e5.jpg)
 
