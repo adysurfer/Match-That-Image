@@ -6,9 +6,9 @@ Project: Match-That-Image
 
 Type: GUI Application using tkinter interface
 
-Created on: 15 May 2020
+First Created on: 04 October 2019
 
-Last Updated on Python 3.x.x: 15 May 2020
+Last Modified on Python 3.x.x: 15 May 2020
 
 Last Updated By: Aditya
 
