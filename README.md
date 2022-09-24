@@ -55,7 +55,7 @@ _Others:_
 
 **Steps for Execution:**
 - Download and Install cmake & Microsoft visual studio build tools
-- git clone `https://github.com/adymon/Match-That-Image.git`
+- git clone `https://github.com/adysurfer/Match-That-Image.git`
 - Install packages from requirements.txt
 - Run `GUI.py`
 
